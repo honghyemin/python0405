@@ -1,4 +1,4 @@
-# 화면단(DemoForm.ui) + 로직단(DemoForm2.py)
+# 화면단(DemoForm2.ui) + 로직단(DemoForm2.py)
 import sys
 # Qt패키지 로딩 : 패키지명.모듈명
 from PyQt5.QtWidgets import *
